@@ -7,5 +7,4 @@ Homestead.json
 Homestead.yaml
 .env
 /public/uploads/*
-/bootstrap/*
 /config/constants.php
